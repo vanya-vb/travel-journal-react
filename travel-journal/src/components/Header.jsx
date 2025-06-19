@@ -1,7 +1,9 @@
+import globeIcon from '/src/assets/globe.png'
+
 export default function Header() {
     return (
         <header>
-            <img src="/src/assets/globe.png" alt="globe icon" />
+            <img src={globeIcon} alt="globe icon" />
             <h1>my travel journal</h1>
         </header>
     )

@@ -4,6 +4,7 @@ Travel Journal is the main project developed during the **Data-Driven React** mo
 All the data displayed on the page is stored in a regular JavaScript file in the form of objects and arrays. The React code imports this data, maps over it, and renders components dynamically with the relevant information.
 
 > Based on a [Figma design]((https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1&p=f&t=S7q00yeATzFBQMl4-0)) provided in the course. 
+> [View it live here](https://vanya-vb.github.io/travel-journal-react/)
 
 ## Features
 - Displays travel locations with images, descriptions, and maps.
