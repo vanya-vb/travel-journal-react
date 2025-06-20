@@ -3,7 +3,7 @@ Travel Journal is the main project developed during the **Data-Driven React** mo
 
 All the data displayed on the page is stored in a regular JavaScript file in the form of objects and arrays. The React code imports this data, maps over it, and renders components dynamically with the relevant information.
 
-> Based on a [Figma design]((https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1&p=f&t=S7q00yeATzFBQMl4-0)) provided in the course. 
+The project is based on a [Figma design]((https://www.figma.com/design/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0-1&p=f&t=S7q00yeATzFBQMl4-0)) provided in the course. 
 > [View it live here](https://vanya-vb.github.io/travel-journal-react/)
 
 ## Features
@@ -17,10 +17,35 @@ All the data displayed on the page is stored in a regular JavaScript file in the
 - How to generate components **dynamically from arrays of data**.
 
 ## Tech stack
+- Vite
 - React 
 - JS
 - CSS
 - JSX
 - Figma
 
-🎓 *A project from my education on the Scrimba platform.*
+## How to run
+1. Clone the repository
+
+```
+git clone https://github.com/{your-username}/travel-journal-react.git
+cd travel-journal
+```
+2. Install dependencies
+
+```
+npm install
+```
+
+3. Start the development server
+
+```
+npm run dev
+```
+
+4. Open in your browser
+
+Navigate to http://localhost:5173 to view the app.
+
+
+> 🎓 *A project from my education on the Scrimba platform.*
